@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Patrick & I'm currently a Master student in Information Systems at *Karlsruhe Institute of Technology* (**KIT**) in Germany.
 
-💼 I work part-time as a Junior Researcher at the *Applied AI in Services Lab* @ *Karlsruhe Service Research and Innovation Hub* (**KSRI**). I am currently working on the BMWK-funded research project *[NaiS](https://nais.tech/)* in the construction industry, where I apply deep learning computer vision methods (object detection & semantic segmentation) and geometric optimizations to digitize analog data such as floor plans.
+💼 I work part-time as a Junior Researcher at the *Applied AI in Services Lab* @ *Karlsruhe Service Research and Innovation Hub* (**KSRI**). I am currently working on the BMWK-funded research project *Nachhaltige intelligente Sanierungsmaßnahmen* (**[NaiS](https://nais.tech/)**) in the construction industry, where I apply deep learning computer vision methods (object detection & semantic segmentation) and geometric optimizations to digitize analog data such as floor plans.
 
 💡 My core interests are centered around AI, **Deep Learning**, **Computer Vision**, Multimodal AI & Document Understanding. This is also reflected in my academic curriculum, which aims to specialize in these areas.
 
