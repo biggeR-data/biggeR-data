@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Patrick & I'm currently a Master student in Information Systems at *Karlsruhe Institute of Technology* (KIT) in Germany.
+My name is Patrick & I'm currently a Master student in Information Systems at *Karlsruhe Institute of Technology* (**KIT**) in Germany.
 
 💼 I work part-time as a Junior Researcher at the *Applied AI in Services Lab* @ *Karlsruhe Service Research and Innovation Hub* (**KSRI**). I am currently working on the BMWK-funded research project *[NaiS](https://nais.tech/)* in the construction industry, where I apply deep learning computer vision methods (object detection & semantic segmentation) and geometric optimizations to digitize analog data such as floor plans.
 
@@ -16,7 +16,7 @@ My name is Patrick & I'm currently a Master student in Information Systems at *K
 
 Here I'll show you some highlights from past projects. Please keep in mind that all of this is still under construction & will be updated irregularly.
 
-## [KIT] Engineering Interactive Systems: Wearables & AI
+## [**KIT**] Engineering Interactive Systems: Wearables & AI
 
 As part of a university capstone project I participated in a team of students working on improving the individual thermal comfort of people working from home with a smart home system present. As part of this project, I developed a classifier that predicts thermal comfort and makes decisions accordingly. To verify the performance of our systems, I created a simulation that applied our decision making process at certain time intervals & adjusted the simulation accordingly. Here's the final result visualizing the simulation:
 
